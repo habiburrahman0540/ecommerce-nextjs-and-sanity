@@ -9,7 +9,7 @@ export default {
             type:"string"
         },
         {
-            name:"product_slag",
+            name:"slug",
             title:"Product Slug",
             type:"slug",
             options:{
